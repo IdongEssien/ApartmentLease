@@ -19,3 +19,6 @@ Possible Limitations: While his may have been obtained from multiple sources, th
 Relevance of Data Set vs. Project Objective/Hypothesis
 The data set will be used to draw up insights for the general public. It could also come in handy for tourists and visitors in search of accommodation. Such periods include short term, medium term or even a mid-long term stay spanning months. 
 Reference: https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata/
+
+Link to Tableau storyboard: https://public.tableau.com/app/profile/idong6362/viz/ApartmentLeaseinNewYork2022/Story1/
+
