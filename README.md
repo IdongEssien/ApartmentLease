@@ -21,4 +21,4 @@ The data set will be used to draw up insights for the general public. It could a
 Reference: https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata/
 
 Link to Tableau storyboard: https://public.tableau.com/app/profile/idong6362/viz/ApartmentLeaseinNewYork2022/Story1/
-
+(N.B. Please note that the storyboard essenetially highlights a visual summary of analysis/results conducted during the project)
