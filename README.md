@@ -7,7 +7,6 @@ Airbnb, Inc is an American company that operates an online marketplace for lodgi
 I – New City Airbnb
 Source: The original dataset can be found in Airbnb Inside http://insideairbnb.com/explore/
 The dataset used for this project was retrieved from Kaggle, an open repository for datasets and arguably the most popular source of datasets.
-
 Collection Method: The Company depends on partners as well as collaborators in gathering vital and necessary data. Skills employed in making this achievable include technological, journalistic as well as data housing knowledge. 
 Due to the intent and purpose of the data, the data could be classified as administrative.
 Content: It is restrictive to locations in New York City. It contains the pricing, review ratings, number of rooms per given apartment as well as the construction year of the apartment.
